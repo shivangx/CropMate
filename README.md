@@ -1,4 +1,4 @@
-#__CropMate__
+# __CropMate__
 CropMate is a web software that recommends the best crops based on your farm's specific data.
 Integrates seamlessly with weather forecasts and provides resource management advice for optimal crop 
 cultivation.
