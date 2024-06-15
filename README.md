@@ -3,10 +3,6 @@ CropMate is a web software that recommends the best crops based on your farm's s
 Integrates seamlessly with weather forecasts and provides resource management advice for optimal crop 
 cultivation.
 
-# Getting Started with Create React App![Uploading Screenshot 2024-04-17 033817.png…]()
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
